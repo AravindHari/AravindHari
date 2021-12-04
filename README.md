@@ -1,4 +1,4 @@
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, folks! I am Aravind <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am presently a 3rd-year B.Tech Student in VIT, Vellore, passionate about Web Development and Machine Learning. Feel free to surf through all of my projects here!!
 <!-- Actual text -->
