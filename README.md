@@ -2,7 +2,7 @@
 
 I am presently a 3rd-year B.Tech Student in VIT, Vellore, passionate about Web Development and Machine Learning. Feel free to surf through all of my projects here!!
 <!-- Actual text -->
-
+passionate about Web Development and Machine Learning. Feel free to surf through all of my projects here!!
 
 <!--
 **AravindHari/AravindHari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
