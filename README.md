@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Projects and Ideations**
 
-- 👨‍💻 All of my projects are available at [https://aravindharinarayanan.netlify.app/](https://aravindharinarayanan.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aravindharinarayanan.netlify.app/)
 
 - 📫 How to reach me **aravindharinarayanan111@gmail.com**
 
-- 📄 Know about my experiences [https://aravindharinarayanan.codes/assets/img/Aravind's%20Resume.pdf](https://aravindharinarayanan.codes/assets/img/Aravind's%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://aravindharinarayanan.netlify.app/assets/img/Aravind's%20Resume.pdf)
 
 - ⚡ Fun fact **I am available 24/7**
 
