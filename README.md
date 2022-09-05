@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm Aravind Harinarayanan</h1>
-<h3 align="center">I am presently a 3rd-year B.Tech Student in VIT, Vellore, passionate about Web Development and Machine Learning. Feel free to surf through all of my projects here!!</h3>
+<h3 align="center">I am presently a final year B.Tech Student in VIT, Vellore, passionate about Web Development and Machine Learning. Feel free to surf through all of my projects here!!</h3>
 
 - 🔭 I’m currently working on a **Laugh Detector game**
 
